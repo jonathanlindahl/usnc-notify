@@ -1,0 +1,1 @@
+Small Spring application intended to be used with https://github.com/jonathanlindahl/dt-ultrasonic to get notified via Discord when a measurement has changed.
